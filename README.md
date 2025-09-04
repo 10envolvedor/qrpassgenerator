@@ -14,7 +14,7 @@
     <strong>Gabriel Henrique</strong> | Desenvolvedor Full Stack com mais de 8 anos de experiência.
   </p>
   <p>
-    <a href="https://www.linkedin.com/in/gabriel-henrique-103529366" target="_blank">
+    <a href="https://www.linkedin.com/in/gabriel-henrique-103529366" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
     </a>
   </p>
@@ -239,9 +239,6 @@ Este projeto foi inspirado no trabalho da **Digital Innovation One (DIO)**:
 - **Repositório Original**: [formacao-nodejs/projeto-qrcode](https://github.com/digitalinnovationone/formacao-nodejs/tree/main/projeto-qrcode)
 - **Felipe** da DIO - Inspiração e motivação para retomar a programação
 - **Comunidade Open Source** - Pacotes e ferramentas utilizadas
-
-### 👨‍💻 Desenvolvedor
-**Gabriel Henrique** - [LinkedIn](https://www.linkedin.com/in/gabriel-henrique-103529366)
 
 ### 💪 Reanimação da Programação
 Este projeto representa um marco importante na retomada da paixão pela programação, demonstrando:
