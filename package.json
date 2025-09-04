@@ -1,0 +1,34 @@
+{
+  "author": "Gabriel Henrique",
+  "dependencies": {
+    "kleur": "^4.1.5",
+    "prompts": "github:10envolvedor/prompts",
+    "qrcode": "^1.5.4"
+  },
+  "description": "Projeto de gerador QR Code e Senha customizada",
+  "devDependencies": {
+    "prettier": "^3.6.2",
+    "terminalizer": "^0.12.0"
+  },
+  "keywords": [
+    "qrcode",
+    "senha",
+    "customizada",
+    "gerador"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "qrpassgenerator",
+  "scripts": {
+    "build": "npm install --production",
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,css,scss,md,html}\"",
+    "format:check": "prettier --check \"**/*.{js,jsx,ts,tsx,json,css,scss,md,html}\"",
+    "start": "node --watch --env-file=.env src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "terminalizer:record": "terminalizer record amostra.yml -c config.yml",
+    "terminalizer:play": "terminalizer play amostra.yml",
+    "terminalizer:render": "terminalizer render amostra.yml -o amostra.gif"
+  },
+  "type": "module",
+  "version": "1.0.0"
+}
